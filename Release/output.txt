@@ -1,0 +1,21 @@
+patest_record.c
+E-MU ASIO maps to 9
+
+=== Now recording to 'audio_data.raw' for 60.000000 seconds!! Please speak into the microphone. ===
+rec time = 1.000000
+rec time = 2.000000
+rec time = 3.000000
+rec time = 4.000000
+rec time = 5.000000
+rec time = 6.000000
+rec time = 7.000000
+rec time = 8.000000
+rec time = 9.000000
+rec time = 10.000000
+rec time = 11.000000
+rec time = 12.000000
+rec time = 13.000000
+Exiting!
+rec time = 14.000000
+
+D:\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spirecordtodisk_ringbuffer-w64\Release>start iexplore 

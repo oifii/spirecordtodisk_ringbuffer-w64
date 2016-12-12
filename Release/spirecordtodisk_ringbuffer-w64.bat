@@ -1,0 +1,1 @@
+spirecordtodisk_ringbuffer-w64.exe testrecording.w64 120 "E-MU ASIO" 2 3
